@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # data
-assets/original_dataset
+assets/original_dataset/
