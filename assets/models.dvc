@@ -1,13 +1,13 @@
-md5: 5885b589bbad0bb76d291d8758e2429b
+md5: c0294d941d21a5fcd4e9367ab020656e
 cmd: python studentpredictor/train_model.py
 wdir: ..
 deps:
-- md5: d6bb16c7f0cd569eaa03ba106ae9fb51
+- md5: 63af04a95b7431de7a073c125ceb4006
   path: studentpredictor/train_model.py
 - md5: 7f7984e39b16bc38f27383f420801898.dir
   path: assets/features
 outs:
-- md5: 77752bf83df5756e00a07a7f283758f4.dir
+- md5: eead4d8fabb2e6f3346a8a69171ed404.dir
   path: assets/models
   cache: true
   metric: false
